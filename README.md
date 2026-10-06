@@ -11,12 +11,12 @@
         <td width="45%" align="center" valign="middle">
             <h2>⌕ SOCIALS</h2>
             <p>
-                <a href="https://youtube.com/@yourchannel">
+                <a href="https://youtube.com/">
                     <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white" height="40" alt="YouTube">
                 </a>
             </p>
             <p>
-                <a href="https://instagram.com/yourhandle">
+                <a href="https://instagram.com/">
                     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" height="40" alt="Instagram">
                 </a>
             </p>
