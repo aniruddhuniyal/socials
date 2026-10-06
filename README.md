@@ -5,19 +5,19 @@
         </td>
     </tr>
     <tr>
-        <td width="50%" align="center">
-            <img src="./assets/transmission.png" width="450">
+        <td width="55%" align="center" valign="middle">
+            <img src="./assets/transmission.png" width="1000" alt="Transmission">
         </td>
-        <td width="50%" valign="middle">
-            <h3>⌕ SOCIALS</h3>
+        <td width="45%" align="center" valign="middle">
+            <h2>⌕ SOCIALS</h2>
             <p>
-                <a href="https://youtube.com/">
-                    <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white">
+                <a href="https://youtube.com/@yourchannel">
+                    <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white" height="40" alt="YouTube">
                 </a>
             </p>
             <p>
-                <a href="https://instagram.com/">
-                    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white">
+                <a href="https://instagram.com/yourhandle">
+                    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" height="40" alt="Instagram">
                 </a>
             </p>
         </td>
